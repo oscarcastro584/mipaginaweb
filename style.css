@@ -1,0 +1,18 @@
+header{
+    width: 100%;
+    background-color: #b4bbb4;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 1em;
+    font-weight: bold;
+    top: 0;
+    left: 0;
+}
+#primero{
+    text-align: center;
+}
+img{
+    width: 15%;
+    height: 15%;
+}
